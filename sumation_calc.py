@@ -1,0 +1,5 @@
+first = input('Insert first value ')
+second = input('Insert a second value ')
+int1 = float(first)
+int2 = float(second)
+print("sum: ", int1 + int2)
